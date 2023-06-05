@@ -1,0 +1,5 @@
+1. dimentionality problem solved
+2. automatic feature extraction
+3. gradient descent optimizer
+4. RMSPropOptimizer
+5. categorical loss entropy [tensorflow]
